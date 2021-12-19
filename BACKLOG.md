@@ -1,0 +1,17 @@
+**RALLY BACKLOG** (_last updated on Wednesday, December 8, 2021_)
+- Add time to events
+- Sort events date-time
+- Create a section for events with dates that have passed
+- Within attendee invitation user journey, add a list of all users who have been invited to events
+- Create cleaner landing page for app upon launch that incorporates existing sign-in/registration functionality
+- Polling functionality (ability for an event creator to create event-specific polls that are displayed on a polls page accessible from the event page, ability for invited users to vote on these polls and change their vote -- we made significant progress on this functionality but were  unable to complete implementation by final demo)
+- Expand user profile (beyond simply name and thumbnail), and create a public user view such that attendees of the same event can see information on each other
+- Implement support for emojis in messaging
+- Show user profile pictures in chat
+- Enable support for full-size picture viewing within event-specific photo galleries
+- Create group functionality (allow users to create groups, invite each other to groups, join groups, leave groups, and create events right from the group with all members invited)
+- Create collaborative event-planning functionality (ability for multiple users to have "creator" status on event, a shared document for co-creators to plan and take notes that is hidden from other event attendees, a private messaging area exclusive to co-creators, etc.)
+- Improve application security
+- A recommender algorithm that suggests event ideas to users based on the history of the events they have attended
+- Integration with payment platforms such as Venmo, so that users can create paid events or distribute a shared cost for an event across event attendees (like a restaurant bill)
+- Guest UX for limited use of app that does not require a Rally account
